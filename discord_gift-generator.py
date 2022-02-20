@@ -84,4 +84,4 @@ def start():
 
 	start()
 
-start()
+start(1)
